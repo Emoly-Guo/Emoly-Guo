@@ -1,6 +1,6 @@
-# Hi, I'm Emily 👋
+# About
 
-I'm a developer exploring software engineering through C++ projects, web development, and creative problem-solving. My GitHub profile currently shows projects focused on programming assignments, foundational C++ work, and a personal website.
+Hi, I'm Emily 👋 I'm a developer exploring software engineering through C++ projects, web development, and creative problem-solving. My GitHub profile currently shows projects focused on programming assignments, foundational C++ work, and a personal website.
 
 [![MLH](https://img.shields.io/badge/Made%20with-MLH-FFA116?style=for-the-badge&logo=mlh)](https://mlh.io)
 
